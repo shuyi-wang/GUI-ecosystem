@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeSimFrame()
+comment0.text=Constructors
+comment1.params=
+comment1.target=void\ pause()
+comment1.text=Methods
+comment2.params=
+comment2.target=void\ play()
+comment3.params=
+comment3.target=void\ updateStats()
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=void\ nextTurn()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

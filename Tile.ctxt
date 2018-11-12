@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=row\ col
+comment0.target=Tile(int,\ int)
+comment0.text=Constructors
+comment1.params=
+comment1.target=int\ row()
+comment1.text=Methods
+comment2.params=
+comment2.target=int\ col()
+numComments=3

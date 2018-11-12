@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=grid\ row\ col
+comment0.target=Rabbit(Grid,\ int,\ int)
+comment0.text=Constructors
+comment1.params=g\ x\ y
+comment1.target=void\ show(java.awt.Graphics,\ int,\ int)
+comment1.text=Methods
+comment2.params=organism
+comment2.target=boolean\ eats(Organism)
+comment3.params=organism
+comment3.target=boolean\ isEatenBy(Organism)
+comment4.params=row\ col
+comment4.target=Organism\ reproduce(int,\ int)
+numComments=5

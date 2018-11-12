@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=plains\ deserts\ mountains\ carrots\ rabbits\ snakes\ animals\ organisms
+comment0.target=Stats(int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment0.text=Constructors
+comment1.params=
+comment1.target=int\ plains()
+comment1.text=Methods
+comment2.params=
+comment2.target=int\ deserts()
+comment3.params=
+comment3.target=int\ mountains()
+comment4.params=
+comment4.target=int\ carrots()
+comment5.params=
+comment5.target=int\ rabbits()
+comment6.params=
+comment6.target=int\ snakes()
+comment7.params=
+comment7.target=int\ animals()
+comment8.params=
+comment8.target=int\ organisms()
+numComments=9
